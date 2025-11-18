@@ -1,0 +1,1 @@
+This project was built using Cypress for the automation challenge 2
